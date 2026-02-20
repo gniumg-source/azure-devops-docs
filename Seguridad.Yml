@@ -1,0 +1,32 @@
+Seguridad
+Microsoft se toma en serio la seguridad de nuestros productos y servicios de software, lo que incluye todos los repositorios de código fuente administrados a través de nuestras organizaciones de GitHub, que incluyen Microsoft , Azure , DotNet , AspNet , Xamarin y nuestras organizaciones de GitHub .
+
+Si cree que ha encontrado una vulnerabilidad de seguridad en cualquier repositorio propiedad de Microsoft que cumpla con la definición de vulnerabilidad de seguridad de Microsoft , infórmenoslo como se describe a continuación.
+
+Informar sobre problemas de seguridad
+No informe vulnerabilidades de seguridad a través de problemas públicos de GitHub.
+
+En su lugar, infórmelo al Centro de respuesta de seguridad de Microsoft (MSRC) en https://msrc.microsoft.com/create-report .
+
+Si prefiere enviar sin iniciar sesión, envíe un correo electrónico a secure@microsoft.com . Si es posible, cifre su mensaje con nuestra clave PGP; descárguela de la página de claves PGP del Centro de Respuesta de Seguridad de Microsoft .
+
+Recibirá una respuesta en 24 horas. Si por algún motivo no la recibe, envíenos un correo electrónico de seguimiento para asegurarse de que hayamos recibido su mensaje original. Puede encontrar más información en microsoft.com/msrc .
+
+Incluya la información solicitada que se detalla a continuación (tanto como pueda proporcionar) para ayudarnos a comprender mejor la naturaleza y el alcance del posible problema:
+
+Tipo de problema (por ejemplo, desbordamiento de búfer, inyección de SQL, scripts entre sitios, etc.)
+Rutas completas de los archivos fuente relacionados con la manifestación del problema
+La ubicación del código fuente afectado (etiqueta/rama/confirmación o URL directa)
+¿Se requiere alguna configuración especial para reproducir el problema?
+Instrucciones paso a paso para reproducir el problema
+Código de prueba de concepto o de explotación (si es posible)
+Impacto del problema, incluido cómo un atacante podría explotarlo
+Esta información nos ayudará a clasificar su informe más rápidamente.
+
+Si solicita una recompensa por errores, los informes más completos pueden contribuir a una recompensa mayor. Visite nuestra página del Programa de Recompensas por Errores de Microsoft para obtener más información sobre nuestros programas activos.
+
+Idiomas preferidos
+Preferimos que todas las comunicaciones sean en inglés.
+
+Política
+Microsoft sigue el principio de divulgación coordinada de vulnerabilidades .
